@@ -19,7 +19,7 @@ Este projeto tem como objetivo criar um sistema que utiliza Realidade Aumentada 
 
 ## Imagem Esboço
 
-![Esboço](imgs/img1.png)
+![Esboço](Imgs/img1.png)
 
 ---
 
